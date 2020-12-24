@@ -1,0 +1,30 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+
+	* Variables
+Una variable es un elemento que se emplea para almacenar y hacer referencia a otro valor
+
+	* Strings
+    Es un texto o cadena de caracteres que se definen entre comillas
+
+	* Funciones (argumentos, `return`)
+Una función es un conjunto de instrucciones que se agrupan para
+realizar una tarea concreta y que se pueden reutilizar fácilmente.
+return: Se utiliza para devolver valores dentro de una función
+
+	* Declaraciones `if`
+if: Ejecuta una sentencia si una condición específicada es evaluada como verdadera. 
+Si la condición es evaluada como falsa, otra sentencia puede ser ejecutada.
+
+	* Valores booleanos (`true`, `false`)
+Las variables de tipo booleano también se conocen con el nombre de variables de tipo
+lógico.
+Una variable de tipo boolean almacena un tipo especial de valor que solamente puede tomar dos
+valores: true (verdadero) o false (falso).
+
+
+
+
