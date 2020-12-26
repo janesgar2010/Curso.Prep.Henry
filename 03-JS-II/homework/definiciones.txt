@@ -1,0 +1,27 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos 
+como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente 
+cualquier agujero en tu comprensión.
+
+
+for
+
+El bucle FOR se utiliza para repetir una o más instrucciones un determinado número de veces, 
+hasta que una condición especificada se evalúe como false
+
+&&, ||, !
+
+AND &&
+
+AND
+La operación lógica AND obtiene su resultado combinando dos valores booleanos. El operador se
+indica mediante el símbolo && y su resultado solamente es true si los dos operandos son true:
+
+OR ||
+
+La operación lógica OR también combina dos valores booleanos. El operador se indica mediante
+el símbolo || y su resultado es true si alguno de los dos operandos es true:
+
+NOT (!)
+
+Regresa false si su único operando puede convertirse a true; de lo contrario, regresa true.
+
