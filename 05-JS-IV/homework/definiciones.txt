@@ -1,0 +1,37 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si 
+se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+
+DEFINCIONES
+
+Objetos:
+
+En JavaScript, un objeto es un entidad independiente con propiedades y tipos.
+
+Propiedades:
+
+Un objeto de JavaScript tiene propiedades asociadas a él. 
+Una propiedad de un objeto se puede explicar como una variable adjunta al objeto.
+Las propiedades de un objeto básicamente son lo mismo que las variables comunes de JavaScript, 
+excepto por el nexo con el objeto.
+
+Métodos
+
+Ademas de propiedades, a los objetos podemos definirle una serie de métodos, 
+que son instrucciones que pueden cambiar los valores que hemos asignado a esas propiedades.
+
+
+Bucle for…in
+
+Una estructura de control derivada de for es la estructura for...in. Su definición exacta implica
+el uso de objetos, que es un elemento de programación avanzada que no se va a estudiar. Por
+tanto, solamente se va a presentar la estructura for...in adaptada a su uso en arrays.
+
+Notación de puntos vs notación de corchetes
+
+Cuando se usa la notación de puntos, key significa 
+la propiedad real en el objeto, que no estará allí. 
+Entonces, se devuelve undefined que no es igual a true .
+
+Cuando usa la notación de corchetes [] está accediendo a la propiedad en el objeto 
+con el nombre en la key la variable. Entonces, eso funcionará.
